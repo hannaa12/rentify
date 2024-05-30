@@ -1,5 +1,5 @@
 import PropertyCard from '../components/PropertyCard';
-import { fetchProperties } from '@/utils/requests';
+import { fetchProperties } from '@/utlis/requests';
 
 
 
