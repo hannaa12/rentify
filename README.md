@@ -1,3 +1,43 @@
+### Rentify
+
+## Features
+### Here are some of the current features that Rentify has:
+
+ User authentication with Google & Next Auth
+ User authorization
+ Route protection
+ User profile with user listings
+ Property Listing CRUD
+ Property image upload (Multiple)
+ Property search
+ Internal messages with 'unread' notifications
+ Photoswipe image gallery
+ Mapbox maps
+ Toast notifications
+ Property bookmarking / saved properties
+ Property sharing to social media
+ Loading spinners
+ Responsive design (Tailwind)
+ Custom 404 page
+ 
+### Rentify uses the following technologies:
+
+Next.js
+React
+Tailwind CSS
+MongoDB
+Mongoose
+NextAuth.js
+React Icons
+Photoswipe
+Cloudinary
+Mapbox
+React Map GL
+React Geocode
+React Spinners
+React Toastify
+React Share
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
